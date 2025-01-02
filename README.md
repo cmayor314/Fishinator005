@@ -18,3 +18,5 @@ Components:
 #FishinatorPi - currently Raspberry-pi implmentation of Fishinator direct control via node-red and node.js
 
 #RemoteSense - Atmel Mega328p implementation of reading local sensors, sent directly to Fishinator
+			-KiCAD schematic files (schematic complete, placement and routing not started)
+			-arduino-interface code
