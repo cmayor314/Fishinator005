@@ -20,3 +20,6 @@ The programming interface is on localhost:1880,
 and the UI interface is on localhost:1880/ui
 
 
+![ui_Fishinator Live Graphs](https://github.com/user-attachments/assets/e7489ee1-dbdd-451e-b4db-8984cda18cb8)
+
+![ui_Fishinator Analysis](https://github.com/user-attachments/assets/5dbfef36-4350-462b-a232-9f9a4d03644c)
