@@ -2,6 +2,9 @@ This directory is the project directory for the
 **node-red** implemention of direct control over the
 Fishinator motors, sensors, and devices.
 
+The implementation is based around using a Raspberry Pi
+as the hardware with RaspbianOS installed.
+
 The programming interface is on localhost:1880,
 and the UI interface is on localhost:1880/ui
 
