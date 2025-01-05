@@ -12,3 +12,4 @@ There is some currently un-documented electronic
 hardware between the Raspberry Pi and the Fishinator
 actuators, real-time clock, LED bargraph, and OLED screen.
 
+![ui_Fishinator Dashboard](https://github.com/user-attachments/assets/77671d96-6f55-47e5-97d4-c480d695c370)
